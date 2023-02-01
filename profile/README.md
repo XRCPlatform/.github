@@ -1,4 +1,6 @@
-[Documentation](https://github.com/XRCPlatform/blockcore/wiki)
+xRhodium (POW X11) is a unique crypto commodity with limited supply and strong use case. Its store-of-value qualities are further supported by a set of features that meet the demand for a long-term crypto investment, incentivize strong-hand investor behaviour and bridge the gap between the world of crypto and traditional investment.
+
+Read our [documentation](https://github.com/XRCPlatform/blockcore/wiki)
 
 <!--
 
